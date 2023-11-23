@@ -1,0 +1,10 @@
+.vscode
+.DS_Store
+coverage/
+__MACOSX/
+.snakemake
+.env
+
+logs/
+build/
+dist/
