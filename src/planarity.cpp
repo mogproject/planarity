@@ -38,4 +38,6 @@ int main(int argc, char* argv[]) {
   // planarity test
   bool is_planar = boost::boyer_myrvold_planarity_test(g);
   printf("%d\n", is_planar);  // 1: planar, 0: not planar
+
+  return 0;
 }
